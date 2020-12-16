@@ -25,6 +25,7 @@ def main():
         use_scm_version={"root":"..", "relative_to": __file__},
         setup_requires=['setuptools_scm'],
         description="Common module for integrate with python-based framewoks",
+        url="https://github.com/LisS666-netizen/crow_test",
         author="TestCompanyTeam, Test Author",
         author_email="test_author@gmail.com",
         packages=['crow_commons'],
